@@ -5,13 +5,13 @@
 <img align = "right" alt = "error coding" width ="400" src = "https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
 
 
-👨‍💻 My projects available at [https://transcendent-capybara-86b16e.netlify.app](https://tubular-longma-d71c3c.netlify.app)
+👨‍💻 My projects available at [https://transcendent-capybara-86b16e.netlify.app](https://willowy-choux-50378b.netlify.app)
 
 💬 Ask me about **MERN**
 
 📫 Reach me **arshadpatan365@gmail.com**
 
-📄 Check My Resume [https://tubular-semolina-d1c325.netlify.app/](https://graceful-tartufo-f40acf.netlify.app)
+📄 Check My Resume [https://tubular-semolina-d1c325.netlify.app/](https://dreamy-swan-fcc95d.netlify.app)
 
 ⚡ Fun fact **Neutral**
 
