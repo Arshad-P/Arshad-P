@@ -6,7 +6,7 @@
 
 
 
-👨‍💻 1) My projects available at 
+👨‍💻 1) My portfolio or Projects available at 
 [https://transcendent-capybara-86b16e.netlify.app](https://willowy-choux-50378b.netlify.app)
 
 📄 2) Check My Resume 
