@@ -4,9 +4,11 @@
 <h3 align="center">Fullstack Web Developer (MERN) 💻🎨</h3>
 <img align = "right" alt = "error coding" width ="400" src = "https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
-👨‍💻 My projects available at [https://transcendent-capybara-86b16e.netlify.app](https://willowy-choux-50378b.netlify.app)
 
-💬 Ask me about **MERN**
+👨‍💻 My projects available at :  
+[https://transcendent-capybara-86b16e.netlify.app](https://willowy-choux-50378b.netlify.app)
+
+💬 Ask me about **#MERN**
 
 📫 Reach me **arshadpatan365@gmail.com**
 
