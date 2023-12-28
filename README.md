@@ -5,16 +5,16 @@
 <img align = "right" alt = "error coding" width ="400" src = "https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
 
-👨‍💻 My projects available at :  
+👨‍💻 1) My projects available at :  
 [https://transcendent-capybara-86b16e.netlify.app](https://willowy-choux-50378b.netlify.app)
 
-💬 Ask me about **#MERN**
+📄 2) Check My Resume [https://tubular-semolina-d1c325.netlify.app/](https://dreamy-swan-fcc95d.netlify.app)
 
-📫 Reach me **arshadpatan365@gmail.com**
+📫 3) Reach me **arshadpatan365@gmail.com**
 
-📄 Check My Resume [https://tubular-semolina-d1c325.netlify.app/](https://dreamy-swan-fcc95d.netlify.app)
+💬 4) Ask me about **#MERN**
 
-⚡ Fun fact **Neutral**
+⚡ 5) Fun fact **Neutral**
 
 
 
