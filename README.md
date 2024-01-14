@@ -7,10 +7,10 @@
 
 
 👨‍💻 1) My Projects Available At 
-[https://transcendent-capybara-86b16e.netlify.app](https://effervescent-truffle-b1fbcd.netlify.app)
+[https://transcendent-capybara-86b16e.netlify.app](https://lively-cocada-402e04.netlify.app)
 
 📄 2) Check My Updated-Resume 
-[https://tubular-semolina-d1c325.netlify.app/](https://animated-gaufre-4516bd.netlify.app)
+[https://tubular-semolina-d1c325.netlify.app/](https://delightful-sopapillas-294ce7.netlify.app)
 
 📫 3) Reach me **arshadpatan365@gmail.com**
 
