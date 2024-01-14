@@ -1,5 +1,5 @@
 
-[![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)]
+[![MasterHead](https://camo.githubusercontent.com/2a52234dd72571aae8dc2beb17d1a26f9dd5ca5afe9a88e5737731c14af0cc16/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)]
 <h3 align="center">Hi 👋, I'm Arshad Patan</h3>
 <h4 align="center">Fullstack Web Developer (MERN) 💻🎨</h4>
 <img align = "right" alt = "error coding" width ="350" src = "https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
@@ -7,10 +7,10 @@
 
 
 👨‍💻 1) My Projects Available At 
-[https://transcendent-capybara-86b16e.netlify.app](https://willowy-choux-50378b.netlify.app)
+[https://transcendent-capybara-86b16e.netlify.app](https://effervescent-truffle-b1fbcd.netlify.app)
 
-📄 2) Check My Resume 
-[https://tubular-semolina-d1c325.netlify.app/](https://dreamy-swan-fcc95d.netlify.app)
+📄 2) Check My Updated-Resume 
+[https://tubular-semolina-d1c325.netlify.app/](https://animated-gaufre-4516bd.netlify.app)
 
 📫 3) Reach me **arshadpatan365@gmail.com**
 
