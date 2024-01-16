@@ -6,7 +6,7 @@
 
 
 
-👨‍💻 1) My Projects Available At 
+👨‍💻 1) Check my projects or Portfolio At 
 [https://transcendent-capybara-86b16e.netlify.app](https://lively-cocada-402e04.netlify.app)
 
 📄 2) Check My Updated-Resume 
