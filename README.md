@@ -17,7 +17,7 @@
 
 📫 4) Reach me **arshadpatan365@gmail.com**
 
-⚡ Be **Neutral**
+
 ⚡ Be **Result oriented**
 ⚡ Be **Practical**
 
