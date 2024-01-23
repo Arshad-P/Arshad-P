@@ -9,7 +9,8 @@
 💬 1) Ask me about **#MERN**
 
 
-👨‍💻 2) Check Portfolio & Projects 
+👨‍💻 2) Check Portfolio & Projects
+
 [https://transcendent-capybara-86b16e.netlify.app](https://zesty-sunflower-e786aa.netlify.app)
 
 📄 3) Check My Updated-Resume 
