@@ -10,7 +10,6 @@
 
 
 👨‍💻 2) Check Portfolio & Projects
-
 [https://transcendent-capybara-86b16e.netlify.app](https://zesty-sunflower-e786aa.netlify.app)
 
 📄 3) Check My Updated-Resume 
@@ -18,7 +17,9 @@
 
 📫 4) Reach me **arshadpatan365@gmail.com**
 
-⚡ 5) Fun fact **Neutral**
+⚡ Be **Neutral**
+⚡ Be **Result oriented**
+⚡ Be **Practical**
 
 
 
