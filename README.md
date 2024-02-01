@@ -6,14 +6,14 @@
 
 
 
-💬 1) Ask me about **#MERN**
+💬 1) Ask me about **#MERN** <br>  <br>
 
 
-👨‍💻 2) Check Portfolio & Projects
-[https://transcendent-capybara-86b16e.netlify.app](https://capable-pavlova-9d842e.netlify.app)
+👨‍💻 2) Check Portfolio & Projects <br>
+[https://transcendent-capybara-86b16e.netlify.app](https://capable-pavlova-9d842e.netlify.app)  <br>  <br>
 
-📄 3) Check My Updated-Resume 
-[https://tubular-semolina-d1c325.netlify.app/](https://shimmering-puppy-e94f3b.netlify.app)
+📄 3) Check My Updated-Resume  <br>  <br>
+[https://tubular-semolina-d1c325.netlify.app/](https://shimmering-puppy-e94f3b.netlify.app) <br>  <br>
 
 📫 4) Reach me **arshadpatan365@gmail.com**
 
