@@ -16,11 +16,12 @@
 [https://tubular-semolina-d1c325.netlify.app/](https://shimmering-puppy-e94f3b.netlify.app) <br>  <br>
 
 📫 4)  Reach me on  <br>
-**arshadpatan365@gmail.com**  <br>  <br>  <br>
+**arshadpatan365@gmail.com**  <br>  <br> 
 
 
-⚡ Be **Result-oriented**
 ⚡ Be **Practical**
+⚡ Be **Result-oriented**
+
 
 
 
