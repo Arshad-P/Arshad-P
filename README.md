@@ -10,10 +10,10 @@
 
 
 👨‍💻 2) Check Portfolio & Projects
-[https://transcendent-capybara-86b16e.netlify.app](https://zesty-sunflower-e786aa.netlify.app)
+[https://transcendent-capybara-86b16e.netlify.app](https://capable-pavlova-9d842e.netlify.app)
 
 📄 3) Check My Updated-Resume 
-[https://tubular-semolina-d1c325.netlify.app/](https://animated-beignet-230d63.netlify.app)
+[https://tubular-semolina-d1c325.netlify.app/](https://shimmering-puppy-e94f3b.netlify.app)
 
 📫 4) Reach me **arshadpatan365@gmail.com**
 
