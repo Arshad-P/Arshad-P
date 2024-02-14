@@ -2,13 +2,13 @@
 <h3 align="center">Hi 👋, I'm Arshad Patan</h3>
 <img align = "right" alt="image error" width="400" src ="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
 
-- 💬 Ask me about **#MERN**
+- 💬 1) Ask me about **#MERN**
   
-- 👨‍💻 My Portfolio & Projects :  <br> [https://capable-pavlova-9d842e.netlify.app](https://capable-pavlova-9d842e.netlify.app)
+- 👨‍💻 2) My Portfolio & Projects :  <br> [https://capable-pavlova-9d842e.netlify.app](https://capable-pavlova-9d842e.netlify.app)
 
-- 📝 Check my updated-resume :  <br> [https://shimmering-puppy-e94f3b.netlify.app](https://shimmering-puppy-e94f3b.netlify.app)
+- 📝 3) Check my updated-resume :  <br> [https://shimmering-puppy-e94f3b.netlify.app](https://shimmering-puppy-e94f3b.netlify.app)
 
-- 📫 Reach me on : <br> **arshadpatan365@gmail.com**
+- 📫 4) Reach me on : <br> **arshadpatan365@gmail.com**
 
 <h5 align="left">Connect with me :</h5>
 <p align="left">
