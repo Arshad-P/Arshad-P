@@ -4,7 +4,7 @@
 
 - 💬 1) Ask me about **#MERN**
   
-- 👨‍💻 2) My Portfolio & Projects :  <br> [https://capable-pavlova-9d842e.netlify.app](https://capable-pavlova-9d842e.netlify.app)
+- 👨‍💻 2) Check My Portfolio & Projects :  <br> [https://capable-pavlova-9d842e.netlify.app](https://capable-pavlova-9d842e.netlify.app)
 
 - 📝 3) Check my updated-resume :  <br> [https://shimmering-puppy-e94f3b.netlify.app](https://shimmering-puppy-e94f3b.netlify.app)
 
