@@ -1,12 +1,12 @@
 [![MasterHead](https://camo.githubusercontent.com/2619e5a9ead82dd13149cb33aeae4dd13e9969607c61eac3ac78fa34d6f5a609/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966)]
 <h3 align="center">Check my portfolio at below...</h3>
-<img align = "right" alt="image error" width="350" src ="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
+<img align = "right" alt="image error" width="450" src ="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
 
-- 💬 1) Ask me about **#MERN**
+- 💬 1) Ask me about **#MERN**  <br>
   
-- 👨‍💻 2) Check My Portfolio & Projects :  <br> [https://capable-pavlova-9d842e.netlify.app](https://capable-pavlova-9d842e.netlify.app)
+- 👨‍💻 2) Check My Portfolio & Projects :  <br> [https://capable-pavlova-9d842e.netlify.app](https://magenta-kitsune-d95e5a.netlify.app)  <br>
 
-- 📝 3) Check my updated-resume :  <br> [https://shimmering-puppy-e94f3b.netlify.app](https://shimmering-puppy-e94f3b.netlify.app)
+- 📝 3) Check my updated-resume :  <br> [https://shimmering-puppy-e94f3b.netlify.app](https://luminous-sawine-f4bd4b.netlify.app)  <br>
 
 - 📫 4) Reach me on : <br> **arshadpatan365@gmail.com**
 
